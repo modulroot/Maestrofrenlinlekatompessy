@@ -7,6 +7,9 @@ bernama (10 Maret.zip) itu file modul nya.
 
 file itu di download lalu di pasang seperti biasanya di magisk atau kernelsu bisa, modul ini support di semua jenis hp.
 
+atau bisa tekan link ini:
+https://github.com/modulroot/MODUL_MAGISKNYA_DISINI/releases
+
 My social media:
 
 Instagram: Seorangmaestro
